@@ -1,0 +1,29 @@
+.group-project-container {
+    /* Add styles specific to group projects here */
+  }
+  
+  /* Continue with other styles for the portfolio */
+  
+  .portfolio-section {
+    /* ... */
+  }
+  
+  .individual-projects,
+  .group-projects {
+    margin-bottom: 2rem;
+  }
+  
+  .project-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    /* ... */
+  }
+  
+  /* Specific styles for group projects if needed */
+  .group-project {
+    border: 1px solid #ddd; /* Example style */
+    padding: 1rem;
+    /* ... */
+  }
+  
